@@ -156,3 +156,31 @@ main .pic-section {
     font-weight: 500;
     margin-left: 0px;
 }
+.bg-pic{
+    background-image: url(../media/images/gradient1.png), url(../media/images/watch.png);
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    border-radius: 5px;
+    margin-left: 380px;
+    margin-top: 135px;
+}
+.bg-head{
+    width: 500px;
+    color: #FFF;
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0px 616px 0px 64px;
+    padding-top: 50px;
+}
+.bg-button{
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+    background: #fff;
+    color: #005FAC;
+    margin: 24px 916px 55px 64px;
+}
