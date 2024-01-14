@@ -32,3 +32,127 @@ header {
     color: #005FAC;
     margin: 0px 230px 166px 1210px;
 }
+
+main .pic-section {
+    display: flex;
+}
+
+.pic {
+    margin: 140px 134px 0px 400px;
+}
+
+.pic-content {
+    text-align: right;
+}
+
+.pic-head {
+    width: 288px;
+    color: var(--Dark-01, #151414);
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 400px;
+}
+
+.pic-para {
+    color: var(--Dark-02, #444343);
+    width: 416px;
+    margin: 24px 0px 16px 0px;
+}
+
+.pic-list {
+    color: var(--Dark-02, #444343);
+    margin-bottom: 200px;
+}
+
+.plan-head {
+    margin-left: 880px;
+    margin-top: 200px;
+    width: 288px;
+    color: var(--Dark-01, #151414);
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.plan-icons {
+    display: flex;
+}
+
+.plans ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.icon-web {
+    margin: 56px 244px 0 350px;
+}
+
+.icon-js {
+    margin: 56px 250px 0px 35px;
+
+}
+
+.icon-smoke {
+    margin: 56px 209px 0px 50px;
+}
+
+.icon-ecom {
+    margin: 56px 289px 0px 50px;
+}
+
+.plan-list-head-web {
+    color: var(--Dark-01, #151414);
+    /* text-align: center; */
+    font-size: 30px;
+    font-weight: 700;
+    margin: 24px 0px 16px 265px;
+}
+
+.plan-list-head-js {
+    color: var(--Dark-01, #151414);
+    /* text-align: center; */
+    font-size: 30px;
+    font-weight: 700;
+    margin: 24px 0px 16px 8px;
+}
+
+.plan-list-head-smoke {
+    color: var(--Dark-01, #151414);
+    /* text-align: center; */
+    font-size: 30px;
+    font-weight: 700;
+    margin: 24px 0px 16px 0px;
+}
+
+.plan-list-head-ecom {
+    color: var(--Dark-01, #151414);
+    /* text-align: center; */
+    font-size: 30px;
+    font-weight: 700;
+    margin: 24px 0px 16px 20px;
+}
+
+.plan-list-para-web {
+    color: var(--Dark-03, #737272);
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 310px;
+}
+.plan-list-para-js {
+    color: var(--Dark-03, #737272);
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: px;
+}
+.plan-list-para-smoke {
+    color: var(--Dark-03, #737272);
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 30px;
+}
+.plan-list-para-ecom {
+    color: var(--Dark-03, #737272);
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 0px;
+}
