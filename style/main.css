@@ -138,25 +138,29 @@ main .pic-section {
     font-weight: 500;
     margin-left: 310px;
 }
+
 .plan-list-para-js {
     color: var(--Dark-03, #737272);
     font-size: 25px;
     font-weight: 500;
     margin-left: px;
 }
+
 .plan-list-para-smoke {
     color: var(--Dark-03, #737272);
     font-size: 25px;
     font-weight: 500;
     margin-left: 30px;
 }
+
 .plan-list-para-ecom {
     color: var(--Dark-03, #737272);
     font-size: 25px;
     font-weight: 500;
     margin-left: 0px;
 }
-.bg-pic{
+
+.bg-pic {
     background-image: url(../media/images/gradient1.png), url(../media/images/watch.png);
     background-repeat: no-repeat;
     width: 1140px;
@@ -165,7 +169,8 @@ main .pic-section {
     margin-left: 380px;
     margin-top: 135px;
 }
-.bg-head{
+
+.bg-head {
     width: 500px;
     color: #FFF;
     font-size: 50px;
@@ -173,7 +178,8 @@ main .pic-section {
     margin: 0px 616px 0px 64px;
     padding-top: 50px;
 }
-.bg-button{
+
+.bg-button {
     width: 160px;
     height: 64px;
     border-radius: 5px;
@@ -183,4 +189,69 @@ main .pic-section {
     background: #fff;
     color: #005FAC;
     margin: 24px 916px 55px 64px;
+}
+
+footer {
+    display: flex;
+    background: var(--Dark-01, #151414);
+    background-size: cover;
+    height: 400px;
+    margin-top: 130px;
+    color: #FFF;
+}
+
+.foot-content {
+    padding-left: 380px;
+}
+
+.foot-head {
+    font-size: 45px;
+    font-weight: 700;
+    padding-top: 60px
+}
+
+.foot-para {
+    width: 485px;
+    padding: 16px 0px 24px 0px;
+}
+
+.foot-paraa {
+    padding-bottom: 16px;
+}
+
+.last-icons {
+    display: flex;
+    list-style-type: none;
+    padding-top: 32px;
+    padding-left: 0px;
+}
+
+.foot-form {
+    padding-left: 446px;
+}
+
+.foot-form-head {
+    padding-top: 100px;
+    padding-bottom: 30px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.foot-form-mail {
+    width: 300px;
+    height: 55px;
+    margin-bottom: 30px;
+    background-color: #151414;
+    border-color: #FFF;
+    border-radius: 5px;
+}
+.footer-button{
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+    background: #005FAC;
+    color: #FFF;
 }
